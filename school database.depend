@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1698148190 source:c:\users\computer market\onedrive\desktop\school database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	"school.h"
+
+1698146187 c:\users\computer market\onedrive\desktop\school database\school.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+
+1698147399 source:c:\users\computer market\onedrive\desktop\school database\functions.c
+	"school.h"
+
+1698240608 source:c:\users\sherif\onedrive\desktop\school database\functions.c
+	"school.h"
+
+1698146188 c:\users\sherif\onedrive\desktop\school database\school.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+
+1698241328 source:c:\users\sherif\onedrive\desktop\school database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	"school.h"
+
